@@ -1,1 +1,1 @@
-# largest-moroccanparallel-moroccan-darija-dataset
+# largest-parallel-moroccan-darija-dataset
